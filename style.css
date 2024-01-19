@@ -1,0 +1,14 @@
+/* style.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+#golfCanvas {
+    border: 1px solid #000;
+    background-color: #00a000; /* Green color for the golf field */
+}
